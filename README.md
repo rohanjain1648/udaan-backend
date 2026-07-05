@@ -1,3 +1,13 @@
+---
+title: Udaan Cognee Backend
+emoji: 🏃
+colorFrom: indigo
+colorTo: pink
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
 # Udaan × Cognee Backend
 
 FastAPI memory layer for the [Udaan Verified Athlete Passport](../README.md).
